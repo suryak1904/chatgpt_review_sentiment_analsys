@@ -10,16 +10,9 @@ get_ipython().run_cell_magic('writefile', 'sentiment_app.py', 'import pandas as 
 # In[ ]:
 
 
-get_ipython().system('streamlit run sentiment_app.py')
-
-
-# In[ ]:
 
 
 
-
-
-# In[ ]:
 
 
 
