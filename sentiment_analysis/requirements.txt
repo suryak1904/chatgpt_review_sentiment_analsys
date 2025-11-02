@@ -1,0 +1,32 @@
+]# Core libraries
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Streamlit app
+streamlit==1.39.0
+
+# NLP & preprocessing
+nltk==3.9.1
+langdetect==1.0.9
+deep-translator==1.11.4
+wordcloud==1.9.3
+
+# Sentence embeddings
+sentence-transformers==3.2.1
+transformers==4.45.2
+torch==2.4.1
+scipy==1.13.1
+
+# ML model
+xgboost==2.1.1
+scikit-learn==1.5.2
+joblib==1.4.2
+
+# Utilities
+tqdm==4.66.5
+openpyxl==3.1.5
+
+
+
